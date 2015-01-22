@@ -2,7 +2,7 @@
 
 WARNING: This is only a concept version software for interested developers, not even developer-preview
 
-I'm not working on this code-base, as the project is too big for me to be done alone as a hobby project. Still, I think it's doable in a few man-months. If you want to work on it as a hobby project (very good for learning about Bittorrent and Bitcoin as well), just open an issue/fork & send me a pull request.
+I'm not working on this code-base, as the project is too big for me to be done alone as a hobby project. Still, I think it's doable in a few man-months. If you want to work on it as a hobby project (very good for learning about Bittorrent and Bitcoin as well), just fork and send me a pull request.
 
 Bitcoin support for Bittorrent protocol is a way to compensate distributors for their work of hosting & distributing files.
 It can be seen as something that Storj wants to be, but using Bitcoin & Bittorrent (2 already widely used protocols).
