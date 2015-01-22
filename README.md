@@ -15,6 +15,7 @@ TODO:
 - Use bittorrent protocol between client and server
 - Use chain.com API to communicate with the blockchain (this could be switched to bitcoinj SPV wallet in the future)
 - Use greenaddress API for instant payment
+- Use bitcore payment channel to simplify code
 - Make file transfer fast
 - Multiple files support, not only 1 file
 - Integrate with Bittorrent download (the same client should be able to download with Bittorrent and with Bitcoin at the same time)
