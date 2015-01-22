@@ -4,7 +4,7 @@ WARNING: This is only a concept version software for interested developers, not 
 
 Bitcoin support for Bittorrent protocol is a way to compensate distributors for their work of hosting & distributing files.
 It can be seen as something that Storj wants to be, but using Bitcoin & Bittorrent (2 already widely used protocols).
-A Bittorrent node can ask money for transferring pieces of data, and another one can pay for it. A node can be a free downloader/free uploader/money earner/money payer at the same time. A micropayment channel is used for the transaction, which is similar to the Bittorrent tit-for-tat strategy.
+A Bittorrent node can ask money for transferring pieces of data, and another one can pay for it. A node can be a free downloader/free uploader/money earner/money payer at the same time. A micropayment channel is used for the transaction, which is similar to the Bittorrent tit-for-tat strategy. With this method, and current internet transfer fees, a video could be downloaded for less than 1 cent/Gigabyte, which could compete with youtube if people would pay 1 cent to see a video that doesn't have ads.
 
 As the number one BitTorrent client (uTorrent) is not open source, this project tries to integrate with the upcoming bittorrent client: Popcorn Time (that's why it's written in JavaScript).
 
